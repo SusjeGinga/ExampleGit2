@@ -14,6 +14,7 @@ namespace ExampleGit2
             int b;
             int c;
             int d;
+            int e;
         }
     }
 }
